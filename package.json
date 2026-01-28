@@ -31,6 +31,10 @@
   "vite": "^6.4.1",
   "@vitejs/plugin-react": "^latest"
   }
+  "engines": {
+  "node": "18.x"
+  }
+
 }
 
 
